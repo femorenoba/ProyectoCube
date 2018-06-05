@@ -1,8 +1,9 @@
 # ProyectoCube
 
 # Integrantes
-Fernando Moreno Bautista.
-Sergio Andres Gonzalez Martinez.
+- Fernando Moreno Bautista.
+
+- Sergio Andres Gonzalez Martinez.
 
 # Objetivos
 - Crear un programa con ayuda de Arduino para representar mediante leds diferentes series o cualquier tipo de idea.
