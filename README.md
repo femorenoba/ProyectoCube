@@ -30,4 +30,6 @@ Se diseñaron 4 clases:
 Se logro aplicar el concepto de clases y la herencia, sumado a esto se realiza el uso de los polimorfirmos.
 Tambien se establece diferentes secuencias para el orden y organizacion de los LEDs a la hora de prender, por ejemplo, la serie de Fibonacci que se utilizo de manera binaria.
 # Trabajo futuro 
+
 # Referencias
+https://www.arduino.cc/reference/en/
