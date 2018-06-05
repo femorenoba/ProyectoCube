@@ -32,5 +32,6 @@ Tambien se establece diferentes secuencias para el orden y organizacion de los L
 # Trabajo futuro 
 
 # Referencias
-https://www.arduino.cc/reference/en/
-https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)
+- https://www.arduino.cc/reference/en/
+
+- https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)
